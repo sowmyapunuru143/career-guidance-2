@@ -10,6 +10,7 @@ My website take input as each stream and visit to the pages as per the input tak
 # Block Diagram
 ![BLOCK DIAGRAM](https://raw.githubusercontent.com/sowmyapunuru143/Career-Guidance/main/Blank%20diagram%20(1).png)
 # youtube link
-[![Youtbe video link](https://img.youtube.com/vi/0139U_oRKyI/0.jpg)](https://www.youtube.com/watch?v=0139U_oRK)
+[![Youtbe video link](https://img.youtube.com/vi/bL9SZ9LIb44/0.jpg)](https://www.youtube.com/watch?v=bL9SZ9LIb44)
 ## repl.it link
 [repl link](https://website.sowmyapunuru123.repl.co)
+https://www.youtube.com/watch?v=bL9SZ9LIb44&feature=youtu.be
