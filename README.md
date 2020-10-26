@@ -3,5 +3,8 @@
 # team mates
 1.18pa1a05d1 - 18pa1a05d1@vishnu.edu.in 2.17pa1a0294 - 17pa1a0294@vishnu.edu.in
 # Objective of my Website
-my website gives information to the students about career-options to choose
+my website gives information to the students about career-options to choose.
 # Discription of my Website
+My website gives information to students about list of streams after 10th class.This list consist of three streams,Arts stream,Science stream and commerce stream.Each stream consist of Subjects and career options.I think this chatbot will help the students to take there own decision about the career.n In my opinion career guidance help the students successfully manage their career development.
+My website take input as each stream and visit to the pages as per the input taken.
+# youtube link[![Youtbe video link](https://img.youtube.com/vi/0139U_oRKyI/0.jpg)](https://www.youtube.com/watch?v=0139U_oRK)
