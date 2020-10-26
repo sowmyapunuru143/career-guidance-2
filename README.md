@@ -13,4 +13,3 @@ My website take input as each stream and visit to the pages as per the input tak
 [![Youtbe video link](https://img.youtube.com/vi/bL9SZ9LIb44/0.jpg)](https://www.youtube.com/watch?v=bL9SZ9LIb44)
 ## repl.it link
 [repl link](https://website.sowmyapunuru123.repl.co)
-https://www.youtube.com/watch?v=bL9SZ9LIb44&feature=youtu.be
